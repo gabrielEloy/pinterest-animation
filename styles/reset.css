@@ -1,0 +1,18 @@
+*, h1 {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: 0;
+          box-sizing: 0;
+}
+
+*,
+button,
+input {
+  font-family: -apple-system, Ubuntu, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+*,
+li {
+  list-style: none;
+}
+/*# sourceMappingURL=reset.css.map */
